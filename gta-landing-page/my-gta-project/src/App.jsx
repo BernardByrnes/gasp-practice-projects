@@ -7,7 +7,9 @@ const App = () => {
   return (
     <main>
       <div>
-        <h1>Welcome to the world of GTA and GSAP!</h1>
+        <h1 className="text-3xl text-pink">
+          Welcome to the world of GTA and GSAP!
+        </h1>
       </div>
     </main>
   );
